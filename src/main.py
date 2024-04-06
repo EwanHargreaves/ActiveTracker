@@ -1,7 +1,11 @@
+from gui import GUI 
+
 def main():
     pass
 
     # create the GUI window
+    GUI()
+
     #   Has a start and stop button
 
     # On start check state of cpu to see if still working
